@@ -2,31 +2,37 @@
     {
       "id": "01",
       "name": "C",
-      "img": "https://i.imgur.com/cdYTRZi.jpg"
+      "img": "https://i.imgur.com/cdYTRZi.jpg",
+      "details": "C is a procedural programming language. It was initially developed by Dennis Ritchie as a system programming language to write operating system. The main features of C language include low-level access to memory, simple set of keywords, and clean style, these features make C language suitable for system programming like operating system or compiler development."
     },
     {
       "id": "02",
       "name": "C++",
-      "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png"
+      "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+      "details": "C++ is a general-purpose programming language and is widely used nowadays for competitive programming. It has imperative, object-oriented and generic programming features. C++ runs on lots of platforms like Windows, Linux, Unix, Mac etc."
     },
     {
       "id": "03",
       "name": "Java",
-      "img": "https://contentstatic.techgig.com/photo/83117460.cms"
+      "img": "https://contentstatic.techgig.com/photo/83117460.cms",
+      "details": "Java is one of the most popular and widely used programming languages.Java has been one of the most popular programming languages for many years.Java is Object Oriented. However, it is not considered as pure object-oriented as it provides support for primitive data types (like int, char, etc).The Java codes are first compiled into byte code (machine-independent code). Then the byte code runs on Java Virtual Machine (JVM) regardless of the underlying architecture.Java syntax is similar to C/C++. But Java does not provide low-level programming functionalities like pointers. Also, Java codes are always written in the form of classes and objects."
     },
     {
       "id": "04",
       "name": "PHP",
-      "img": "https://concatenate.io/wp-content/uploads/2021/07/php-language.jpeg"
+      "img": "https://concatenate.io/wp-content/uploads/2021/07/php-language.jpeg",
+      "details": "The term PHP is an acronym for Hypertext Preprocessor. It is a server-side scripting language that is used for web development. It can be easily embedded with HTML files. HTML codes can also be written in a PHP file. The PHP codes are executed on the server-side whereas HTML codes are directly executed on the browser."
     },
     {
       "id": "05",
       "name": "Python",
-      "img": "https://www.newworldai.com/wp-content/uploads/python.jpg"
+      "img": "https://www.newworldai.com/wp-content/uploads/python.jpg",
+      "details": "Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java."
     },
     {
       "id": "06",
-      "name": "Javascript",
-      "img": "https://miro.medium.com/max/800/1*wf5X21iwgrRR1mnWuPp7WA.png"
+      "name": "c#-C Sharp",
+      "img": "https://www.mertsenturk.net/wp-content/uploads/2021/07/c_sharp.jpg",
+      "details": "C# is a general-purpose, modern and object-oriented programming language pronounced as “C Sharp”. It was developed by Microsoft led by Anders Hejlsberg and his team within the .NET initiative and was approved by the European Computer Manufacturers Association (ECMA) and International Standards Organization (ISO). C# is among the languages for Common Language Infrastructure. C# is a lot similar to Java syntactically and is easy for users who have knowledge of C, C++ or Java."
     }
   ]
