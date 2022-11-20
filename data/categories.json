@@ -1,26 +1,32 @@
 [
     {
       "id": "01",
-      "name": "C"
+      "name": "C",
+      "img": "https://i.imgur.com/cdYTRZi.jpg"
     },
     {
       "id": "02",
-      "name": "C++"
+      "name": "C++",
+      "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png"
     },
     {
       "id": "03",
-      "name": "Java"
+      "name": "Java",
+      "img": "https://contentstatic.techgig.com/photo/83117460.cms"
     },
     {
       "id": "04",
-      "name": "PHP"
+      "name": "PHP",
+      "img": "https://concatenate.io/wp-content/uploads/2021/07/php-language.jpeg"
     },
     {
       "id": "05",
-      "name": "Python"
+      "name": "Python",
+      "img": "https://www.newworldai.com/wp-content/uploads/python.jpg"
     },
     {
       "id": "06",
-      "name": "Javascript"
+      "name": "Javascript",
+      "img": "https://miro.medium.com/max/800/1*wf5X21iwgrRR1mnWuPp7WA.png"
     }
   ]
