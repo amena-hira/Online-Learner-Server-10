@@ -8,31 +8,31 @@
     {
       "id": "02",
       "name": "C++",
-      "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tu2z9cvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/696/1%2A6UpwEDOw04H5fKyaMGXpSw.png",
       "details": "C++ is a general-purpose programming language and is widely used nowadays for competitive programming. It has imperative, object-oriented and generic programming features. C++ runs on lots of platforms like Windows, Linux, Unix, Mac etc."
     },
     {
       "id": "03",
       "name": "Java",
-      "img": "https://techhubsolutions.in/wp-content/uploads/2021/12/2.png",
+      "img": "https://media.istockphoto.com/id/1131109259/photo/java-programming-concept-virtual-machine-on-server-room-background.jpg?b=1&s=170667a&w=0&k=20&c=BN_3x2SZzQmORduQVQGDvX3OL_TYj3eDmyvs_1cmqGI=",
       "details": "Java is one of the most popular and widely used programming languages.Java has been one of the most popular programming languages for many years.Java is Object Oriented. However, it is not considered as pure object-oriented as it provides support for primitive data types (like int, char, etc).The Java codes are first compiled into byte code (machine-independent code). Then the byte code runs on Java Virtual Machine (JVM) regardless of the underlying architecture.Java syntax is similar to C/C++. But Java does not provide low-level programming functionalities like pointers. Also, Java codes are always written in the form of classes and objects."
     },
     {
       "id": "04",
       "name": "PHP",
-      "img": "https://www.php.net/images/meta-image.png",
+      "img": "https://kinsta.com/wp-content/uploads/2020/03/php-tutorials-1024x512.png",
       "details": "The term PHP is an acronym for Hypertext Preprocessor. It is a server-side scripting language that is used for web development. It can be easily embedded with HTML files. HTML codes can also be written in a PHP file. The PHP codes are executed on the server-side whereas HTML codes are directly executed on the browser."
     },
     {
       "id": "05",
       "name": "Python",
-      "img": "https://www.newworldai.com/wp-content/uploads/python.jpg",
+      "img": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
       "details": "Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java."
     },
     {
       "id": "06",
       "name": "C Sharp",
-      "img": "https://www.mertsenturk.net/wp-content/uploads/2021/07/c_sharp.jpg",
+      "img": "https://miro.medium.com/max/750/1*Z2weuFPP2ewuBhbLzl-MUg.png",
       "details": "C# is a general-purpose, modern and object-oriented programming language pronounced as “C Sharp”. It was developed by Microsoft led by Anders Hejlsberg and his team within the .NET initiative and was approved by the European Computer Manufacturers Association (ECMA) and International Standards Organization (ISO). C# is among the languages for Common Language Infrastructure. C# is a lot similar to Java syntactically and is easy for users who have knowledge of C, C++ or Java."
     }
   ]
